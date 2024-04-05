@@ -1,0 +1,94 @@
+{
+    "Coffee": [
+        {
+            "nama": "Coffee Beer",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYV_Ud0YeNmaSlp6mH1Fp_Mj_fn6y543ud-DNPa6N8rg&s",
+            "harga": "10.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/coffeebeer"
+        },
+        {
+            "nama": "Caramel Frappe",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1UNNxIcZrWwORuDzvdyIKP94qLYOLfkUPM0Xr5-maQ&s",
+            "harga": "25.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/caramelfrappe"
+        },
+        {
+            "nama": "Espresso",
+            "foto": "https://www.ruparupa.com/blog/wp-content/uploads/2022/10/jenis-minuman-kopi-espresso.jpg",
+            "harga": "10.000",
+            "size": "25 Ml",
+            "link": "https://shopee.co.id/espresso"
+        }
+    ],
+    "Beans": [
+        {
+            "nama": "Woyoo Arabika Coffe Beans",
+            "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//105/MTA-9934368/woyoo_coffee_woyoo_biji_kopi_arabika_premium_produk_banjarnegara_isi_100_gr_full03_thy4e8sf.jpg",
+            "harga": "40.000",
+            "size": "100 Gr",
+            "link": "https://shopee.co.id/woyooarabikacoffeekabeans"
+        },
+        {
+            "nama": "Bali Kintamani Coffee Beans",
+            "foto": "https://ceklist.id/wp-content/uploads/2021/05/7.-Kupu-Kupu-Bola-Dunia-Bali-Kintamani.jpg",
+            "harga": "40.000",
+            "size": "100 Gr",
+            "link": "https://shopee.co.id/balikintamanicoffeebeans"
+        },
+        {
+            "nama": "Amesco Arabika Toraja Coffee Beans",
+            "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//102/MTA-12193698/amesco_kopi_toraja_-_kopi_arabika_200gr__-_biji_-_kopi_bubuk_premium_-_kopi_toraja_asli_-_arabica__full01_nrywmurm.jpg",
+            "harga": "40.000",
+            "size": "100 Gr",
+            "link": "https://shopee.co.id/amescoarabikatorajacoffeebeans"
+        }
+    ],
+    "Non Coffee": [
+        {
+            "nama": "Es Teh Manis",
+            "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "harga": "10.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/estehmanis"
+        },
+        {
+            "nama": "Milo Ice",
+            "foto": "https://daganghalal.blob.core.windows.net/25479/Product/1000x1000__icedmilo-1618221574390.jpg",
+            "harga": "15.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/miloice"
+        },
+        {
+            "nama": "Taro Ice",
+            "foto": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/Qy2I1SLCxk.jpg",
+            "harga": "15.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/taroice"
+        }
+    ],
+    "Snack": [
+        {
+            "nama": "Chicken Burger Cheese",
+            "foto": "https://asset.kompas.com/crops/S7vCL7w60DW4gZvn427A4K1KZKE=/120x113:815x577/750x500/data/photo/2022/01/25/61ef4b60ead1d.jpeg",
+            "harga": "25.000",
+            "size": "1 Pcs",
+            "link": "https://shopee.co.id/chickenburgercheese"
+        },
+        {
+            "nama": "Classic Cheese Pizza",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqNOrnCWng5zaBj2reNeU2QHAMaeyj1EJJhqbunN9kg&s",
+            "harga": "45.000",
+            "size": "1 Pcs",
+            "link": "https://shopee.co.id/classiccheesepizza"
+        },
+        {
+            "nama": "Carbonara Spaghetti",
+            "foto": "https://cdn0-production-images-kly.akamaized.net/i1CKcu1ErcEIdJegAf--eDxiygE=/0x0:1000x563/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4518333/original/007291800_1690604915-shutterstock_1940048218.jpg",
+            "harga": "25.000",
+            "size": "1 Pcs",
+            "link": "https://shopee.co.id/carbonaraspaghetti"
+        }
+    ]
+}
