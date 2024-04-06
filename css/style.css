@@ -135,7 +135,7 @@ nav {
    untuk pengguna vscode silahkan arahkan mouse ke kotak warna di bawah
    untuk mengganti warna sesuai keinginan
    */
-   background-color: #18972d;
+   background-color: #070707;
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
@@ -186,7 +186,7 @@ a.shop {
 
 a.chat {
    margin-right: 30px;
-   background-color: rgb(8, 69, 8);
+   background-color: rgb(199, 10, 10);
    color: #fff;
    padding-top: 5px;
    padding-right: 15px;
@@ -519,7 +519,7 @@ section.contact-us iframe {
 div.kontak {
    width: 30%;
    /* color mengatur warna tulisan */
-   color: green;
+   color: #070707;
    text-align: center;
    margin-top: 50px;
 }
@@ -528,7 +528,7 @@ div.kontak {
 /* FOOTER */
 
 footer {
-   background-color: #198754;
+   background-color: #070707;
    padding-top: 15px;
    padding-bottom: 15px;
    color: #fff;
